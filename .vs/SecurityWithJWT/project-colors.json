@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3ed08a9-2453-4c09-94e2-01a412b857ad": {
+      "ProjectGuid": "e3ed08a9-2453-4c09-94e2-01a412b857ad",
+      "DisplayName": "AuthAndOuth",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
