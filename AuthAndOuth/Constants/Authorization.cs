@@ -4,8 +4,8 @@
     {
         public enum Roles
         {
-            Administrator,
-            Moderator,
+            Admin,
+            Manager,
             User
         }
         public const string default_username = "user";
